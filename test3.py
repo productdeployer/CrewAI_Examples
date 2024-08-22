@@ -53,7 +53,7 @@ crew = Crew(
   agents=[researcher, writer],
   tasks=[task1, task2],
   process=Process.sequential,
-  verbose=2, # You can set it to 1 or 2 to different logging levels
+  verbose=1, # You can set it to 1 or 2 to different logging levels
 )
 
 
