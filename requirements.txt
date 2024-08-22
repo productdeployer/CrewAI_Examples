@@ -1,0 +1,7 @@
+
+langchain
+streamlit
+unstructured
+sentence_transformers
+crewai[tools]
+duckduckgo-search
